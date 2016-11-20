@@ -1,4 +1,6 @@
 # 후드리찹찹 날로먹는 Github 
+Github에 대해 간략히 소개하기 위한 목적의 Repo  
+Short URL : http://aka.ms/aem-github  
 
 ##Git 저장소
 대표적인 VCS(Version Control System)  
