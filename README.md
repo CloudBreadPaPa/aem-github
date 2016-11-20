@@ -1,5 +1,4 @@
 # 후드리찹찹 날로먹는 Github 
-수정1
 
 ##Git 저장소
 대표적인 VCS(Version Control System)  
